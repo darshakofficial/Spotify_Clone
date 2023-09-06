@@ -23,8 +23,9 @@ app.use(express.json());
 
 mongoose.connect
 (
-    //replace your MongoDB connection URL with <MongoDB URL>
-    "mongodb+srv://darshak1330:" + process.env.MONGO_PASSWORD + "@cluster0.n6zdvq2.mongodb.net/?retryWrites=true&w=majority",
+    
+    //<MongoDB URL>  <---replace your MongoDB connection URL with <MongoDB URL>
+    ,
     {
         useNewUrlParser: true,
         useUnifiedTopology: true,
