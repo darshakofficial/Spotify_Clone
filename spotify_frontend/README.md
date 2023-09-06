@@ -1,6 +1,6 @@
 # Make changes in your project
 
-0. Start Spotify backend(server) and follow instructions mentioned in to README.md file in server spotify_backend folder.
+0. Start Spotify backend(server) and follow instructions mentioned in to README.md file in spotify_backend folder.
 
 1. to setup type open root folder into cmd(terminal) and type * npm install * then hit the enter key.
 
